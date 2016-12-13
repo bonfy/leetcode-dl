@@ -14,6 +14,7 @@ Installing from PyPI
 Once you have `pip3`, execute:
 
 .. code-block:: shell
+
     $ pip3 install leetcode-dl
 
 =======================
@@ -24,6 +25,7 @@ Installing source code
 First you need to clone `python-openflow` repository:
 
 .. code-block:: shell
+
    $ git clone https://github.com/bonfy/leetcode-dl.git
 
 
@@ -41,7 +43,7 @@ Usage
 
 .. code-block:: shell
 
-	$ leetcode-dl
+    $ leetcode-dl
     $ leetcode-dl -h|help     help page
     $ leetcode-dl -set        set config
     $ leetcode-dl -show       show config
