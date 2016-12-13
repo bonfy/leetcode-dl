@@ -27,7 +27,7 @@ setup(
     entry_points={'console_scripts': 'leetcode-dl=leetcode_dl_cli.main:main'},
     classifiers=(
         'Intended Audience :: Developers',
-        'License :: MIT License',
+        'License :: OSI Approved :: MIT License',
         'Programming Language :: Python'
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.3',
