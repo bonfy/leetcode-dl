@@ -1,6 +1,6 @@
 args==0.1.0
 clint==0.5.1
 cssselect==1.0.0
-lxml==3.6.4
+lxml==4.6.5
 pyquery==1.2.17
 requests==2.20.0
